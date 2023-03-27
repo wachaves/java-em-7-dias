@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dia 1/Dia 1.iml" filepath="$PROJECT_DIR$/Dia 1/Dia 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia 2/Dia 2.iml" filepath="$PROJECT_DIR$/Dia 2/Dia 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia 3/Dia 3.iml" filepath="$PROJECT_DIR$/Dia 3/Dia 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia 4/Dia 4.iml" filepath="$PROJECT_DIR$/Dia 4/Dia 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia 4 Desafio 1/Dia 4 Desafio 1.iml" filepath="$PROJECT_DIR$/Dia 4 Desafio 1/Dia 4 Desafio 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia 4 Desafio 2/Dia 4 Desafio 2.iml" filepath="$PROJECT_DIR$/Dia 4 Desafio 2/Dia 4 Desafio 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia 5/Dia 5.iml" filepath="$PROJECT_DIR$/Dia 5/Dia 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iniciando/Iniciando.iml" filepath="$PROJECT_DIR$/Iniciando/Iniciando.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto Dia 1/Projeto Dia 1.iml" filepath="$PROJECT_DIR$/Projeto Dia 1/Projeto Dia 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto Dia 2/Projeto Dia 2.iml" filepath="$PROJECT_DIR$/Projeto Dia 2/Projeto Dia 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projeto Dia 3/Projeto Dia 3.iml" filepath="$PROJECT_DIR$/Projeto Dia 3/Projeto Dia 3.iml" />
+    </modules>
+  </component>
+</project>
